@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:250px">👋 Hello!</h1>
+
 <p align="left">Not a Programmer</p>
 
 <p align="center">
