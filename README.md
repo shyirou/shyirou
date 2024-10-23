@@ -3,16 +3,6 @@
 <h1 align="center" style="font-size:250px">👋 Hello!</h1>
 <p align="left">Not a Programmer</p>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center" class="d-flex justify-content-center align-items-center">
-  <a href="https://github.com/shyirou">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shyirou&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shyirou&layout=compact&langs_count=8&theme=omni"/>
-  </a>
-</p>
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <!---<a href="https://steamcommunity.com/id/Failzuma/">
