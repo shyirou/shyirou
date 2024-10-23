@@ -18,6 +18,6 @@
 <!---<a href="https://steamcommunity.com/id/Failzuma/">
 <img alt="Steam" src="https://img.shields.io/badge/-Failzuma-4E94EC?style=flat&logo=Steam&logoColor=0a0b24"/></a> -->
 <p align="center">
-    <a href="https://discord.com/users/566507480788631552"><img src="https://lanyard.cnrad.dev/api/566507480788631552?borderRadius=20px&bg=transparent&idleMessage=Probably%20doing%20something%20else..." alt="Discord" width="450"/></a>
+    <a href="https://discord.com/users/566507480788631552"><img src="https://lanyard.cnrad.dev/api/696988079352709140?borderRadius=20px&bg=00000000" alt="Discord" width="450"/></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
